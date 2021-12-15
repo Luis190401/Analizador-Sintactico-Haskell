@@ -1,7 +1,7 @@
 import ply.lex as lex
 import sys
 from ply.lex import Lexer
-# Balam Chuc Addiel Benjamin - 19070061
+# Chuc Balam Addiel Benjamin - 19070061
 # Dzul Noh Jose Julio - 19070047
 # Llanes Barrera Luis Angel - 19070023
 # Poot Pool Riger Emmanuel - 19070067

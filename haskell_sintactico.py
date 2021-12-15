@@ -2,7 +2,7 @@ import sys
 import ply.yacc as yacc
 from haskell_lexer import tokens
 from haskell_lexer import lexer
-# Balam Chuc Addiel Benjamin - 19070061
+# Chuc Balam Addiel Benjamin - 19070061
 # Dzul Noh Jose Julio - 19070047
 # Llanes Barrera Luis Angel - 19070023
 # Poot Pool Riger Emmanuel - 19070067
